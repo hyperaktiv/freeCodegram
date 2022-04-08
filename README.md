@@ -1,3 +1,13 @@
+## Description
+
+Website is the fake clone instagram using PHP/Laravel on learning.
+Some function:
+    - Login/Register
+    - Authentication with token
+    - Home page
+    - User profile: change avatar, name, description, url, ...
+    - Upload image and new post
+
 ## Run the SITES
 
     - Open terminal and run, to open and run site:
