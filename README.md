@@ -17,4 +17,4 @@
 
 ## Connect to me
 
-[https://nguyendangnam.com/] (https://nguyendangnam.com/)
+[https://nguyendangnam.com/](https://nguyendangnam.com/)
